@@ -1,0 +1,266 @@
+city_id,city_name,state_code
+1,Desert Hot Springs,CA
+2,Putnam Valley,NY
+3,Whippany,NJ
+4,Waltham,MA
+5,Elmira,NY
+6,New Geneva,PA
+7,Austin,TX
+8,Renfrew,PA
+9,Forsyth,GA
+10,Racine,MN
+11,Feather Falls,CA
+12,Embarrass,WI
+13,Swartswood,NJ
+14,Hoffman Estates,IL
+15,Melrose,MA
+16,Bayboro,NC
+17,Magdalena,NM
+18,Los Angeles,CA
+19,Dema,KY
+20,Aptos,CA
+21,Windyville,MO
+22,Holmdel,NJ
+23,Cleveland,OH
+24,Dora,MO
+25,Granville,IL
+26,Cincinnati,OH
+27,Burbank,CA
+28,Denver,CO
+29,Bentonia,MS
+30,Reesville,OH
+31,New Britain,CT
+32,Ideal,GA
+33,Girvin,TX
+34,Knowles,OK
+35,Amarillo,TX
+36,Manhattan Beach,CA
+37,Frohna,MO
+38,Roscoe,MO
+39,South Carver,MA
+40,Nicholasville,KY
+41,East Saint Louis,IL
+42,Brooklyn,NY
+43,Middle Falls,NY
+44,Torrance,CA
+45,La Salle,CO
+46,Paterson,NJ
+47,Potsdam,OH
+48,Milton,LA
+49,Cliffwood,NJ
+50,East Pembroke,NY
+51,Escondido,CA
+52,Maury City,TN
+53,Mammoth Lakes,CA
+54,Dewart,PA
+55,Fort Pierce,FL
+56,Newark,DE
+57,Orlando,FL
+58,Bullhead City,AZ
+59,Lenzburg,IL
+60,Death Valley,CA
+61,Colerain,NC
+62,Nacogdoches,TX
+63,Lamesa,TX
+64,Laona,WI
+65,Bryce Canyon,UT
+66,West Point,CA
+67,Eastern,KY
+68,Southmont,NC
+69,Honokaa,HI
+70,Plymouth,NY
+71,El Segundo,CA
+72,Elliott,IL
+73,Brookville,KS
+74,Grand Portage,MN
+75,Rahway,NJ
+76,Nashville,GA
+77,Laurinburg,NC
+78,Norco,LA
+79,Everest,KS
+80,Clintonville,WI
+81,New York,NY
+82,Rosine,KY
+83,Fort Worth,TX
+84,San Diego,CA
+85,Ware,MA
+86,Fernandina Beach,FL
+87,Midpines,CA
+88,Somerton,AZ
+89,Inglewood,CA
+90,Rainbow Lake,NY
+91,Red Oak,TX
+92,Corbin,KY
+93,Springfield,NJ
+94,Finlayson,MN
+95,San Jose,CA
+96,Springer,OK
+97,Portis,KS
+98,Macdoel,CA
+99,Bellwood,PA
+100,Nordheim,TX
+101,Ventnor City,NJ
+102,Tower,MN
+103,Clermont,GA
+104,Farrar,MO
+105,Santa Rosa Beach,FL
+106,Burlington,MA
+107,Saint Jo,TX
+108,Bryn Mawr,CA
+109,Morrisonville,IL
+110,High Point,MO
+111,Fisk,MO
+112,Los Alamos,NM
+113,Chandler,OK
+114,Tillson,NY
+115,Rush Springs,OK
+116,Moriah Center,NY
+117,Pickering,MO
+118,Brick,NJ
+119,Lumber Bridge,NC
+120,Biloxi,MS
+121,Spring Mount,PA
+122,Bakerstown,PA
+123,Glenwood,NJ
+124,Oxford,PA
+125,Heafford Junction,WI
+126,Tolland,MA
+127,Bear,DE
+128,Zumbro Falls,MN
+129,Cresson,TX
+130,Crescent Mills,CA
+131,Albuquerque,NM
+132,San Antonio,TX
+133,Skokie,IL
+134,Kane,PA
+135,Roosevelt,OK
+136,Mapleton Depot,PA
+137,Marshville,NC
+138,Harristown,IL
+139,Boulder,CO
+140,Neopit,WI
+141,Indiana,PA
+142,Orwigsburg,PA
+143,Rossburg,OH
+144,Casa Grande,AZ
+145,Madison,WI
+146,Ponte Vedra Beach,FL
+147,Canon,GA
+148,Gainesville,GA
+149,Richmond,KY
+150,East Ellijay,GA
+151,Stamford,TX
+152,Seville,FL
+153,Aberdeen,KY
+154,Lawton,OK
+155,Montebello,CA
+156,Santa Fe,MO
+157,Amherst,OH
+158,Hendersonville,NC
+159,Tennille,GA
+160,Caney,KS
+161,Dayton,OH
+162,Mount Vernon,OR
+163,Okabena,MN
+164,Cascadia,OR
+165,Portage,UT
+166,Wilmot,WI
+167,Dallas,TX
+168,Wichita,KS
+169,Hidalgo,IL
+170,Howard,GA
+171,Temple,TX
+172,Salado,TX
+173,Paso Robles,CA
+174,Vermillion,MN
+175,New Braunfels,TX
+176,New Orleans,LA
+177,Lac Du Flambeau,WI
+178,Miltonvale,KS
+179,Paducah,KY
+180,Elkin,NC
+181,Tylertown,MS
+182,Watertown,MA
+183,Twentynine Palms,CA
+184,Glendale,AZ
+185,McAdenville,NC
+186,Overpeck,OH
+187,Wooton,KY
+188,Manns Choice,PA
+189,Sanford,NC
+190,Harrisburg,PA
+191,Houston,TX
+192,Senecaville,OH
+193,Ho-Ho-Kus,NJ
+194,Renault,IL
+195,Ardmore,PA
+196,Conneautville,PA
+197,Tyler,TX
+198,Weedsport,NY
+199,Monessen,PA
+200,Maple Plain,MN
+201,Sand Springs,OK
+202,Roaring River,NC
+203,Conejos,CO
+204,Unionville Center,OH
+205,Latty,OH
+206,Vernon,IL
+207,Brooksville,FL
+208,Ontario,CA
+209,Valdese,NC
+210,Saint James,MO
+211,McAllen,TX
+212,Warner,OK
+213,Bakersfield,CA
+214,Roscoe,MN
+215,Groveton,TX
+216,Dover,GA
+217,Java Village,NY
+218,Marble Falls,TX
+219,Cedar Springs,GA
+220,Timberlake,NC
+221,Breesport,NY
+222,Register,GA
+223,Allentown,PA
+224,Waller,TX
+225,Smithfield,UT
+226,Roper,NC
+227,Vernon,TX
+228,Forest Junction,WI
+229,Milwaukee,WI
+230,Gruver,TX
+231,Allensville,PA
+232,Hidden Valley,PA
+233,White Plains,GA
+234,Athens,GA
+235,Dundee,MS
+236,West Palm Beach,FL
+237,Jacksonville,FL
+238,Woodland,WI
+239,Oak Grove,MO
+240,Chaplin,CT
+241,Mesa,AZ
+242,Corpus Christi,TX
+243,Shawnee On Delaware,PA
+244,Pulaski,PA
+245,Marlborough,CT
+246,Shreveport,LA
+247,Juneau,WI
+248,Madelia,MN
+249,Fairwater,WI
+250,Northampton,MA
+251,Cameron,NY
+252,Columbus,NM
+253,Somerset,NJ
+254,Naples,TX
+255,Stockton,UT
+256,Green River,UT
+257,Sharpes,FL
+258,Avalon,TX
+259,Oakland,CA
+260,Canadian,TX
+261,Reading,PA
+262,Thief River Falls,MN
+263,Atlanta,GA
+264,Medford,NJ
+265,French Gulch,CA

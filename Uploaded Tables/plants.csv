@@ -1,0 +1,30 @@
+plant_id,manu_id,plant_name
+1,1,California
+2,2,New Jersey 
+3,2, Oregon
+4,3,Pennsylvania
+5,4,Alabama 
+6,4, Florida 
+7,4, Louisana
+8,5,California
+9,6,Indiana
+10,7,Connecticut
+11,8,Ohio
+12,9,Texas 
+13,9, Kansas 
+14,9, South Dakota
+15,10,Michigan
+16,11,Washington
+17,10,Wisconsin 
+18,10, Indiana
+19,12,Georgia 
+20,12, Mississippi
+21,13,Iowa 
+22,13, Illinois 
+23,13, Nebraska
+24,14,Ohio
+25,15,New Jersey
+26,16,Florida
+27,17,Maryland
+28,18,California 
+29,18, Virginia

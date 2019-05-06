@@ -1,0 +1,13 @@
+customer_name,customer_id,customer_ceo,customer_website,customer_description
+Amazon,1,Jeff Bezos,https://www.amazon.com/,Online retailer
+Wal-Mart,2,Doug McMillion,https://www.walmart.com/,long-standing chain
+Walgreens,3,Stefano Pessina,https://www.walgreens.com/,phramarcy chain 
+Target,4,Brian Cornell,https://www.target.com/,long-standing chain
+Family Dollar Stores,5,Howard Levine,https://www.familydollar.com/,low-cost store
+Dollar General,6,Todd Vasos,https://www.dollargeneral.com/,low-cost store
+CVS,7,Larry Merlo,https://www.cvs.com/,phramarcy chain 
+Kroger,8,William Rodney McMullen,https://www.kroger.com/,European chain
+Rite Aid Corps,9,John Standley,https://www.riteaid.com/,phramarcy chain 
+Ahold,10,Frans Muller,https://www.aholddelhaize.com/en/home/,European chain
+Safeway,11,Robert Gerald Miller,https://www.safeway.com/,Grocery store chain
+US Other Customers,12,,,
