@@ -18,11 +18,18 @@ VALUES ('Costco',13, 'Walter Craig Jelinek', 'https://www.costco.com/', 'Wholesa
 	   ('Wegmans', 14, 'Colleen Wegman', 'https://www.wegmans.com/', 'Grocery store chain'),
 	   ('Aldi', 15, 'Marc Heußinger', 'https://www.aldi.us/', 'European chain');
        
+# insert new potential sites
+INSERT INTO sites(site_id, site_address, zipcode, longitude, latitude, city_id)
+VALUES (280, '3525 Progress Drive', 83702, -116.1966137, 43.593522, 265);
+
+
 
 # Update the discount_rate;
 UPDATE discounts
 	SET discount_rate = discount_rate * 0.95
 	WHERE discount_rate >= 0.7;
+
+
 
 
 
